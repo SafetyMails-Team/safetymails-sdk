@@ -1,0 +1,7 @@
+Copyright (c) SafetyMails
+
+This repository and its contents are the property of SafetyMails.
+
+You are allowed to use the examples and code provided here solely for the purpose of integrating with the SafetyMails API or platform. Any other usage, distribution, resale, or modification without written permission is strictly prohibited.
+
+See full Terms of Use at: https://www.safetymails.com/terms-of-use/
