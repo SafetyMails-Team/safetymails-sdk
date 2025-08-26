@@ -1,0 +1,1 @@
+// Java code with SHA1 and HMAC

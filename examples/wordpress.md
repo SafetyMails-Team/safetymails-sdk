@@ -1,0 +1,1 @@
+Same script as HTML basic. Tested on: Forminator, Form Maker, Smart Form, others.
