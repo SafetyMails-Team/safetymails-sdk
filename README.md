@@ -1,8 +1,16 @@
-# SafetyMails SDK and API Integration Examples
+# SafetyMails SDK - Email Verification & Email Checker API
+
+SafetyMails is a trusted [email verification](https://www.safetymails.com) and [email checker API](https://www.safetymails.com/email-checker-api/) that helps businesses improve deliverability, reduce bounces, and block fake or invalid email addresses. 
+
+With our email validation service, you can:
+
+✅ Verify bulk email lists (CSV, TXT, or via integrations)
+✅ Use real-time email verifier
+ on forms and CRMs
+✅ Detect spamtraps, disposable emails, catch-all and role-based addresses
+✅ Protect your reputation and increase ROI on email marketing
 
 Welcome to the official repository of **SafetyMails**, a trusted solution for real-time email verification, list cleaning, and email validation APIs. This repository provides useful documentation and practical integration examples for developers looking to secure their email capture processes.
-
-[🔗 Visit SafetyMails website](https://www.safetymails.com) – email verification tool
 
 ---
 
@@ -64,18 +72,33 @@ Full details and examples are included in every code snippet under the `examples
 
 ---
 
-## ❤️ Backed by SafetyMails
-SafetyMails protects your email acquisition and campaign results with:
+## Features
 
-- Real-time verification API
-- Bulk list cleaning
-- Spam trap and hard bounce detection
-- Integration with CRMs and marketing tools
+✅**Bulk email verification**: Upload lists in CSV or TXT, or import via integrations.
+✅**Real-time email checker API**: Instantly block invalid signups on web forms.
+✅**Detailed reports**: Understand your data quality with advanced statuses.
+✅**Integrations**: Works with ActiveCampaign, Mailchimp, HubSpot, and other platforms.
 
-👉 [Try SafetyMails now](https://www.safetymails.com) – 1,000 free verifications
+👉 [Try SafetyMails now](https://panel.safetymails.com/control/signup/) – 1,000 free verifications
 
----
 
+## 📖 Resources
+
+🌍 [Email Verification Tool](https://www.safetymails.com/))
+📚 [Developer Docs](https://docs.safetymails.com/en/)
+🔌 [API Reference](https://docs.safetymails.com/en/how-to-create-and-install-a-custom-safetymails-real-time-verification-api-for-registration-forms-and-webservices/)
+🛠 [Email Checker Examples](https://www.safetymails.com/free-email-checker-tool/)
+💲 [Pricing](https://www.safetymails.com/email-verification-pricing/)
+
+👉 With SafetyMails you get a complete [email verifier](https://www.safetymails.com/email-verifier/)
+ to keep your database clean, prevent bounces, and guarantee higher deliverability for your campaigns.
+
+ ##📬 Support
+
+**Website**: safetymails.com
+**Docs**: docs.safetymails.com
+**Email**: support@safetymails.com
+ 
 ## 🤝 Need Help?
 Our support team is ready to assist. Contact [support@safetymails.com](mailto:support@safetymails.com) for integration help or feature requests.
 
